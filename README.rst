@@ -5,7 +5,7 @@ SPORCO Notebooks
     :target: https://mybinder.org/v2/gh/bwohlberg/sporco-notebooks/master?filepath=index.ipynb
     :alt: Binder
 .. image:: https://img.shields.io/badge/License-BSD%203--Clause-blue.svg
-    :target: https://github.com/bwohlberg/sporco-cuda
+    :target: https://github.com/bwohlberg/sporco-notebooks
     :alt: Package License
 
 
