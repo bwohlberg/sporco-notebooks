@@ -25,3 +25,5 @@ rather than
 |
 
 SPORCO Notebooks is part of the `SPORCO <https://github.com/bwohlberg/sporco>`__ package and is distributed with the same 3-Clause BSD license.
+
+Release tags for SPORCO Notebooks are the same as those of the corresponding release of the main SPORCO package.
