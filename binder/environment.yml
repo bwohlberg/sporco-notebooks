@@ -9,5 +9,4 @@ dependencies:
   - matplotlib
   - pyfftw
   - pip:
-    - git+https://github.com/bwohlberg/sporco
-
+    - git+https://github.com/bwohlberg/sporco.git@v0.1.9
