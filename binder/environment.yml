@@ -8,5 +8,6 @@ dependencies:
   - pillow
   - matplotlib
   - pyfftw
+  - scikit-video
   - pip:
     - git+https://github.com/bwohlberg/sporco
