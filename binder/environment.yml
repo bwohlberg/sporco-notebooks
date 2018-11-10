@@ -5,7 +5,7 @@ dependencies:
   - future
   - numpy
   - scipy
-  - pillow
+  - imageio
   - matplotlib
   - pyfftw
   - scikit-video
