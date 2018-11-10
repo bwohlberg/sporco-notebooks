@@ -9,5 +9,6 @@ dependencies:
   - matplotlib
   - pyfftw
   - scikit-video
+  - ffmpeg
   - pip:
     - git+https://github.com/bwohlberg/sporco
