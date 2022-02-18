@@ -12,4 +12,4 @@ dependencies:
   - scikit-video
   - ffmpeg
   - pip:
-    - git+https://github.com/bwohlberg/sporco
+    - git+https://github.com/bwohlberg/sporco.git@v0.2.1
