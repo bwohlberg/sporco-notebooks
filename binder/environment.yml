@@ -6,6 +6,7 @@ dependencies:
   - numpy
   - scipy
   - imageio
+  - imageio-ffmpeg
   - matplotlib
   - pyfftw
   - scikit-video
